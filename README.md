@@ -1,2 +1,5 @@
-# CollegeNavigationSystem_Project
-College Navigation System using which user can navigate easily in college campus.
+# cns_project
+
+Run the app.py file in an IDE on Localserver
+
+To access the hosted site: https://cns-collgeproject.herokuapp.com/
